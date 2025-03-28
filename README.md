@@ -7,33 +7,28 @@
 <hr>
 <p style="font-weight:bold; color:#f44235; background:silver;">MicroResearch<span style="color:#ffffff">Corporation</span></p>
 <br>
-<img href="https://github.com/MegaMind-Solution/MegaMind-Solution/blob/main/Img/MRc_Branding.png" alt="mrc_branding.img" style="height:330px; width:330px; background:silver; border:3px dotted red; border-radius:90px; margin-top:2px;">
+![mrc](https://github.com/MegaMind-Solution/MegaMind-Solution/blob/main/Img/MRc_Branding.png)
 <hr>
 <p>And</p>
 <hr>
 <p style="background:silver; color:teal; font-weight:bold;">MindRise Designs&copy;</p>
 <br>
-<img href="https://github.com/MegaMind-Solution/MegaMind-Solution/blob/main/Img/MRd_Branding.png" alt="mrd_branding.img" style="height:330px; width:330px; background:silver; border:3px dotted teal; border-radius:90px;">
+![mrd](https://github.com/MegaMind-Solution/MegaMind-Solution/blob/main/Img/MRd_Branding.png)
 <hr>
 <p>Guys! there is my story why i'm mod the snaptube.</p>
 <br>
 <p style="margin:3px;"> Once upon a time when i download a video from snaptube then 
 <span style="font-weight:bold">Ad</span> is start and  the link is expired and i can't download that video upto 3 days.Then  i decided to debloat snaptube from 
 <span style="font-weight:bold;">Ad's and Advertisment.</span>
-
-<p style="font-weight:bold; font-size:20px;">Snapshots</p>
+Snapshots
 <hr>
-<div style="display:flex; flex-direction:column;border:2px double black; background:silver; text-align:left">
-
-<p>Shot_1</p>
-<img href="https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/blob/main/Snapshots/Shot_02.png">
-<p>Shot_2</p>
-<img href="https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/blob/main/Snapshots/Shot_04.png">
-<p>Shot_3</p>
-<img href="https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/blob/main/Snapshots/Shot_05.png">
-<p>Shot_4</p>
-<img href="https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/blob/main/Snapshots/Shot_09.png">
-<p>Shot_5</p>
-<img href="https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/blob/main/Snapshots/Shot_12.png">
-
-</div>
+Shot_1
+![]!https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/blob/main/Snapshots/Shot_02.png)
+Shot_2
+![](https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/blob/main/Snapshots/Shot_04.png)
+Shot_3
+![](https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/blob/main/Snapshots/Shot_05.png)
+Shot_4
+![](https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/blob/main/Snapshots/Shot_09.png)
+Shot_5
+![](https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/blob/main/Snapshots/Shot_12.png)
