@@ -2,6 +2,8 @@
 <meta charset="utf-8" />
 <h3>No Ad's No Advertisment</h3>
 
+[**Download**](https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/releases)
+
 <hr>
 
 Hi👋🏼 I'm **M.Ramzan Ch** co-founder of
@@ -32,6 +34,8 @@ Huys! there is my story why i'm mod the snaptube.
 😂😆🤣😂😘🙈🙉
 Once upon a time when i download a video from snaptube then **Ad** is start and  the link is expired and i can't download that video upto 3 days.Then  i decided to debloat snaptube from **Ad's and Advertisment.**
 Snapshots
+
+[**Download**](https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/releases)
 
 <hr style="color:golden">
 
