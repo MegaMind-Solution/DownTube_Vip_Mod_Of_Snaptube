@@ -1,17 +1,14 @@
 <h1>FownTube Vip Mod Of Snaptube</h1>
 <meta charset="utf-8" />
-</html>
 <h3>No Ad's No Advertisment</h3>
+
 <hr>
 
-<body style="text-align:center; item-align:center; font-size:16px;justify-content;center;">
-<p>Hi👋🏼 I'm <span style="font-weight:bold;">M.Ramzan Ch </span>co-founder of</p>
+Hi👋🏼 I'm **M.Ramzan Ch** co-founder of
   
 <hr>
-
-<p style="font-weight:bold; color:#f44235; background:silver;">MicroResearch<span style="color:#ffffff">Corporation</span></p>
-
-<br>
+        MicroResearch
+         Corporation
 
 <div style="height:330px; width:330px; background:silver; border:3px dotted red; border-radius:90px; margin-top:2px;">
 
@@ -20,13 +17,7 @@
     
 <hr>
 
-<p>And</p>
-
-<hr>
-
-<p style="background:silver; color:teal; font-weight:bold;">MindRise Designs&copy;</p>
-
-<br>
+and MindRise Designs&copy;
 
 <div style="height:330px; width:330px; background:silver; border:3px dotted teal; border-radius:90px;">
 
