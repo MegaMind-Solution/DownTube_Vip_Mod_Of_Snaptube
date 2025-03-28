@@ -1,25 +1,33 @@
-<!DOCTYPE html>
-<html>
-<head>
-<html><h1>FownTube Vip Mod Of Snaptube</h1>
+<h1>FownTube Vip Mod Of Snaptube</h1>
 <meta charset="utf-8" />
 </html>
 <h3>No Ad's No Advertisment</h3>
 <hr>
+
 <body style="text-align:center; item-align:center; font-size:16px;justify-content;center;">
 <p>Hi👋🏼 I'm <span style="font-weight:bold;">M.Ramzan Ch </span>co-founder of</p>
+  
 <hr>
+
 <p style="font-weight:bold; color:#f44235; background:silver;">MicroResearch<span style="color:#ffffff">Corporation</span></p>
+
 <br>
+
 <div style="height:330px; width:330px; background:silver; border:3px dotted red; border-radius:90px; margin-top:2px;">
 
   ![](https://github.com/MegaMind-Solution/MegaMind-Solution/blob/main/Img/MRc_Branding.png)
   </div
+    
 <hr>
+
 <p>And</p>
+
 <hr>
+
 <p style="background:silver; color:teal; font-weight:bold;">MindRise Designs&copy;</p>
+
 <br>
+
 <div style="height:330px; width:330px; background:silver; border:3px dotted teal; border-radius:90px;">
 
 ![](https://github.com/MegaMind-Solution/MegaMind-Solution/blob/main/Img/MRd_Branding.png)
@@ -50,3 +58,5 @@
 <p>Shot_5</p>
 
 ![](https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube/blob/main/Snapshots/Shot_12.png)
+
+</body>
